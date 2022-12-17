@@ -53,7 +53,7 @@ I speak Spanish (Native), English (Bilingual) and German (Intermediate).
   </tbody>
 </table>
 
-##Contact Info
+## Contact Info
 - LinkedIn: https://www.linkedin.com/in/luisdmaco/
 
 <!--
