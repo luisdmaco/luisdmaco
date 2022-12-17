@@ -53,6 +53,9 @@ I speak Spanish (Native), English (Bilingual) and German (Intermediate).
   </tbody>
 </table>
 
+##Contact Info
+- LinkedIn: https://www.linkedin.com/in/luisdmaco/
+
 <!--
 **luisdmaco/luisdmaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
