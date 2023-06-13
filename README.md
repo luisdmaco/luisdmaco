@@ -3,7 +3,7 @@ I'm Luis. I'm a Software Engineering student based in Peru. I'm currently learni
 
 In my spare time I play the piano, play videogames, cook, read, learn languages and like to stay fit. 
 
-I speak Spanish (Native), English (Bilingual) and German (Intermediate).
+I speak Spanish, English and German.
 
 <table>
   <tbody>
