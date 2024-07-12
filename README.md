@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Luis**, a passionate Computer Science student based in Heidelberg. I have experience in both frontend and backend Web Development, and I also have solid knowledge in C++. Additionally, I have experience with SQL and NoSQL databases. I thrive in collaborative environments and love working with like-minded people to create impactful projects.
+I'm **Luis**, a passionate Computer Science student based in Heidelberg - Germany. I have experience in both frontend and backend Web Development, and I also have solid knowledge in C++. Additionally, I have experience with SQL and NoSQL databases. I thrive in collaborative environments and love working with like-minded people to create impactful projects.
 
 ---
 
