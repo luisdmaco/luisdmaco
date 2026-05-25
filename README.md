@@ -1,123 +1,202 @@
-### Hi there! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey, I'm Luis
 
-I'm **Luis**, a passionate Computer Science student based in Heidelberg - Germany. I have experience in both frontend and backend Web Development, and I also have solid knowledge in C++. Additionally, I have experience with SQL and NoSQL databases. I thrive in collaborative environments and love working with like-minded people to create impactful projects.
+### Computer Science Student @ Heidelberg University 🇩🇪  
+Building AI-powered applications, scalable backend systems and modern web platforms.
 
----
-
-### 🌟 Skills
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>C++</strong></span><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>HTML5</strong></span><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>CSS3</strong></span><br><br>
-        <img height="100px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>JavaScript</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <span><strong>npm</strong></span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Angular</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>TypeScript</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <span><strong>SQL</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>NoSQL</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>VS Code</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="left">
+  <a href="https://github.com/luisdmaco">
+    <img src="https://komarev.com/ghpvc/?username=luisdmaco&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </a>
+  <a href="https://www.linkedin.com/in/luisdmaco/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Maco-0077B5?style=flat&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Projects
+## About Me
 
-I have co-created and contributed to several impactful projects, including:
+Computer Science student at Heidelberg University focused on building AI-powered applications, scalable backend systems and modern web platforms.
 
-- [**Hato**](https://github.com/Grupo-4-Hato): A digital platform designed to improve the management of hostels in Peru. It allows hostels to register guest check-ins and check-outs, manage room bookings, and provide room services without direct contact with the administrator.
-  - **Features**:
-    - **Guest Management**: Register and manage guest check-ins and check-outs.
-    - **Room Booking**: Allow guests to book rooms online.
-    - **Service Requests**: Enable guests to request room services digitally.
+- AI Engineering & LLM Applications
+- Backend Architecture & APIs
+- Fullstack Development
+- NLP / OCR / OpenSearch Pipelines
+- Enterprise AI Workflows
 
-- [**PCInfo**](https://github.com/orgs/SW51-Aplicaciones-Web-Grupo2): A web application designed to connect travelers and customers who want to bring products from other countries, especially PC components, making it easier to obtain expensive products in Peru for a small profit.
-  - **Features**:
-    - Connects travelers with customers needing products from abroad.
-    - Focuses on facilitating the acquisition of PC components.
+Currently working on AI-powered presentation generation systems and enterprise LLM integrations.
 
 ---
 
-### 🎹 Interests
+## Tech Stack
 
-In my spare time, I enjoy:
-- Dancing
-- Playing the piano
-- Cooking
-- Learning new languages
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp" />
+</p>
+
+### AI / Data / Search
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-4B32C3?style=for-the-badge" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,html,css" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,gitlab,vscode,idea" />
+</p>
 
 ---
 
-### 🌐 Languages
+# Featured Projects
 
-I speak:
-- Spanish
-- English
-- German
+## AI Presentation Generation Agent
+
+AI-powered assistant system designed for IT consultants to automatically generate customer presentations using historical enterprise data.
+
+### Highlights
+- Hexagonal backend architecture
+- Vendor-independent LLM integration
+- PDF/PPTX processing pipelines
+- MCP server integration with LibreChat
+- Azure OpenAI integration
+- Enterprise-oriented AI workflow automation
+
+### Stack
+`Python` `FastAPI` `Azure OpenAI` `LibreChat` `MCP`
 
 ---
 
-### 📫 Contact
+## Hato — Hostel Management Platform
 
-- LinkedIn: [Luis D. Maco](https://www.linkedin.com/in/luisdmaco/)
+Full-stack web application designed to modernize hostel operations in Peru.
 
-Feel free to reach out to me for collaborations, ideas, or just to say hi!
+### Features
+- Guest check-in / check-out management
+- Online room booking
+- Digital room service requests
+- Role-based authentication system
+- RESTful API architecture
+
+### Stack
+`Angular` `TypeScript` `Spring Boot` `SQL`
+
+🔗 https://github.com/Grupo-4-Hato
 
 ---
 
-<!--
-**luisdmaco/luisdmaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## DebugLLM
 
-Here are some ideas to get you started:
+Experimental LLM project focused on automated code analysis and debugging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+- LLM experimentation & evaluation
+- Benchmarking pipelines
+- Research-oriented architecture
+- Hugging Face datasets integration
+- State-of-the-art paper implementation
+
+### Stack
+`Python` `Jupyter` `Ollama`
+
+---
+
+## OCR & OpenSearch Data Pipelines
+
+Research-oriented OCR/NLP pipelines for processing PDF documents and large-scale searchable corpora.
+
+### Features
+- OCR extraction
+- NLP preprocessing
+- OpenSearch indexing
+- Automated ETL workflows
+- Research data accessibility
+
+### Stack
+`Python` `spaCy` `OpenSearch` `Docker`
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdmaco&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisdmaco&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisdmaco&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisdmaco&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisdmaco&theme=tokyonight&utcOffset=2" />
+</p>
+
+---
+
+## Current Focus
+
+```txt
+> Building scalable AI-powered systems
+> Improving software architecture skills
+> Exploring LLM workflows & AI engineering
+> Learning more about distributed systems
+```
+
+---
+
+## Beyond Tech
+
+Outside software engineering, I enjoy:
+
+- 🎹 Playing piano
+- 💃 Dancing
+- 🍳 Cooking
+- 🌍 Learning languages
+- ✈️ Traveling
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/luisdmaco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:luis.maco@stud.uni-heidelberg.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/luisdmaco">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p
